@@ -1,2 +1,2 @@
 # Hackweek
-## 这是XXXX组hackweek代码库
+## 这是素颜、残容组hackweek代码库
